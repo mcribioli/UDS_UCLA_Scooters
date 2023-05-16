@@ -11,6 +11,6 @@ This Repository includes the code for gathering scooter location data and other 
 * Gather weather data
 * Gather Police citation data
 * Gather elevation data
-* Conduct an
+* Conduct a machine learning analysis
 
 by Joanny Leyva and Matthews Cribioli 
