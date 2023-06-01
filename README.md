@@ -13,4 +13,12 @@ This Repository includes the code for gathering scooter location data and other 
 * Gather elevation data
 * Conduct a machine learning analysis
 
+# 5.18.23
+* Scooter data clean up: have data merged by the hour so all days of the week are together 
+* Track scooter travel length: which traveled least/most
+* Building location significance
+* Delays (to leave to end)
+* Machine learning
+
+
 by Joanny Leyva and Matthews Cribioli 
